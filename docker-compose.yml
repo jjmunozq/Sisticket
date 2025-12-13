@@ -1,0 +1,138 @@
+services:
+  # Base de datos MySQL
+  mysql:
+    image: mysql:5.7
+    container_name: ticket_mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: rootpass123
+      MYSQL_DATABASE: tmp_ticket
+      MYSQL_USER: ticketuser
+      MYSQL_PASSWORD: ticketpass123
+    ports:
+      - "3306:3306"
+    volumes:
+      - ./DB/ticket.sql:/docker-entrypoint-initdb.d/01-ticket.sql
+      - mysql_data:/var/lib/mysql
+    networks:
+      - ticket-network
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost"]
+      timeout: 20s
+      retries: 10
+
+  # Aplicación PHP
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: ticket_app
+    volumes:
+      - ./TICKET:/var/www/html
+    depends_on:
+      mysql:
+        condition: service_healthy
+    networks:
+      - ticket-network
+    environment:
+      MYSQL_HOST: mysql
+      MYSQL_USER: ticketuser
+      MYSQL_PASSWORD: ticketpass123
+      MYSQL_DATABASE: tmp_ticket
+
+  # Nginx
+  nginx:
+    image: nginx:alpine
+    container_name: ticket_nginx
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./TICKET:/var/www/html
+      - ./nginx.conf:/etc/nginx/nginx.conf
+      - ./ssl:/etc/nginx/ssl
+    depends_on:
+      - app
+    networks:
+      - ticket-network
+
+  # Prometheus
+  prometheus:
+    image: prom/prometheus:latest
+    container_name: ticket_prometheus
+    ports:
+      - "9090:9090"
+    volumes:
+      - ./prometheus.yml:/etc/prometheus/prometheus.yml
+      - prometheus_data:/prometheus
+    command:
+      - '--config.file=/etc/prometheus/prometheus.yml'
+      - '--storage.tsdb.path=/prometheus'
+    networks:
+      - ticket-network
+
+  # Node Exporter (métricas del sistema)
+  node_exporter:
+    image: prom/node-exporter:latest
+    container_name: ticket_node_exporter
+    ports:
+      - "9101:9100"
+    volumes:
+      - /proc:/host/proc:ro
+      - /sys:/host/sys:ro
+      - /:/rootfs:ro
+    command:
+      - '--path.procfs=/host/proc'
+      - '--path.sysfs=/host/sys'
+      - '--collector.filesystem.mount-points-exclude=^/(sys|proc|dev|host|etc)($$|/)'
+    networks:
+      - ticket-network
+
+  # MySQL Exporter (métricas de la BD)
+  mysql_exporter:
+    image: prom/mysqld-exporter:latest
+    container_name: ticket_mysql_exporter
+    ports:
+      - "9105:9104"
+    environment:
+      DATA_SOURCE_NAME: "ticketuser:ticketpass123@(mysql:3306)/tmp_ticket"
+    depends_on:
+      - mysql
+    networks:
+      - ticket-network
+
+  # Grafana
+  grafana:
+    image: grafana/grafana:latest
+    container_name: ticket_grafana
+    ports:
+      - "3000:3000"
+    environment:
+      GF_SECURITY_ADMIN_PASSWORD: admin123
+      GF_SECURITY_ADMIN_USER: admin
+      GF_INSTALL_PLUGINS: 'grafana-piechart-panel,grafana-worldmap-panel'
+    volumes:
+      - grafana_data:/var/lib/grafana
+      - ./grafana/provisioning:/etc/grafana/provisioning
+      - ./grafana/dashboards:/var/lib/grafana/dashboards
+    depends_on:
+      - prometheus
+    networks:
+      - ticket-network
+
+  # Pushgateway (para recibir métricas push de los tests)
+  pushgateway:
+    image: prom/pushgateway:latest
+    container_name: ticket_pushgateway
+    ports:
+      - "9091:9091"
+    networks:
+      - ticket-network
+
+volumes:
+  mysql_data:
+  prometheus_data:
+  grafana_data:
+
+networks:
+  ticket-network:
+    driver: bridge
