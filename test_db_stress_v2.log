@@ -1,0 +1,114 @@
+nohup: no se tendrá en cuenta la entrada
+==============================================
+DB STRESS TEST - Inicio: vie 12 dic 2025 08:58:05 -05
+Duración (s): 21600, batch: 15000
+==============================================
+[2025-12-12 08:58:05] Iteration 1: INSERT 15000 x 15 filas
+[2025-12-12 08:58:05] Iteration 1: UPDATE aleatorio x 15 clientes
+[2025-12-12 08:58:05] Iter 1: inserts=225000 updates=75
+[2025-12-12 09:01:33] Iteration 2: INSERT 15000 x 15 filas
+[2025-12-12 09:01:33] Iteration 2: UPDATE aleatorio x 15 clientes
+[2025-12-12 09:01:33] Iter 2: inserts=450000 updates=150
+[2025-12-12 09:12:36] Iteration 3: INSERT 15000 x 15 filas
+[2025-12-12 09:12:36] Iteration 3: UPDATE aleatorio x 15 clientes
+[2025-12-12 09:12:36] Iter 3: inserts=675000 updates=225
+[2025-12-12 09:24:40] Iteration 4: INSERT 15000 x 15 filas
+[2025-12-12 09:24:40] Iteration 4: UPDATE aleatorio x 15 clientes
+[2025-12-12 09:24:40] Iter 4: inserts=900000 updates=300
+[2025-12-12 09:34:45] Iteration 5: INSERT 15000 x 15 filas
+[2025-12-12 09:34:45] Iteration 5: UPDATE aleatorio x 15 clientes
+[2025-12-12 09:34:45] Iter 5: inserts=1125000 updates=375
+[2025-12-12 09:45:50] Iteration 6: INSERT 15000 x 15 filas
+[2025-12-12 09:45:50] Iteration 6: UPDATE aleatorio x 15 clientes
+[2025-12-12 09:45:50] Iter 6: inserts=1350000 updates=450
+[2025-12-12 09:56:44] Iteration 7: INSERT 15000 x 15 filas
+[2025-12-12 09:56:44] Iteration 7: UPDATE aleatorio x 15 clientes
+[2025-12-12 09:56:44] Iter 7: inserts=1575000 updates=525
+[2025-12-12 10:07:24] Iteration 8: INSERT 15000 x 15 filas
+[2025-12-12 10:07:24] Iteration 8: UPDATE aleatorio x 15 clientes
+[2025-12-12 10:07:24] Iter 8: inserts=1800000 updates=600
+[2025-12-12 10:18:08] Iteration 9: INSERT 15000 x 15 filas
+[2025-12-12 10:18:08] Iteration 9: UPDATE aleatorio x 15 clientes
+[2025-12-12 10:18:08] Iter 9: inserts=2025000 updates=675
+[2025-12-12 10:28:59] Iteration 10: INSERT 15000 x 15 filas
+[2025-12-12 10:28:59] Iteration 10: UPDATE aleatorio x 15 clientes
+[2025-12-12 10:28:59] Iter 10: inserts=2250000 updates=750
+[2025-12-12 10:39:49] Iteration 11: INSERT 15000 x 15 filas
+[2025-12-12 10:39:49] Iteration 11: UPDATE aleatorio x 15 clientes
+[2025-12-12 10:39:49] Iter 11: inserts=2475000 updates=825
+[2025-12-12 10:49:41] Iteration 12: INSERT 15000 x 15 filas
+[2025-12-12 10:49:41] Iteration 12: UPDATE aleatorio x 15 clientes
+[2025-12-12 10:49:41] Iter 12: inserts=2700000 updates=900
+[2025-12-12 10:58:56] Iteration 13: INSERT 15000 x 15 filas
+[2025-12-12 10:58:56] Iteration 13: UPDATE aleatorio x 15 clientes
+[2025-12-12 10:58:56] Iter 13: inserts=2925000 updates=975
+[2025-12-12 11:09:45] Iteration 14: INSERT 15000 x 15 filas
+[2025-12-12 11:09:45] Iteration 14: UPDATE aleatorio x 15 clientes
+[2025-12-12 11:09:45] Iter 14: inserts=3150000 updates=1050
+[2025-12-12 11:20:28] Iteration 15: INSERT 15000 x 15 filas
+[2025-12-12 11:20:28] Iteration 15: UPDATE aleatorio x 15 clientes
+[2025-12-12 11:20:28] Iter 15: inserts=3375000 updates=1125
+[2025-12-12 11:31:20] Iteration 16: INSERT 15000 x 15 filas
+[2025-12-12 11:31:20] Iteration 16: UPDATE aleatorio x 15 clientes
+[2025-12-12 11:31:20] Iter 16: inserts=3600000 updates=1200
+[2025-12-12 11:42:07] Iteration 17: INSERT 15000 x 15 filas
+[2025-12-12 11:42:07] Iteration 17: UPDATE aleatorio x 15 clientes
+[2025-12-12 11:42:07] Iter 17: inserts=3825000 updates=1275
+[2025-12-12 11:52:53] Iteration 18: INSERT 15000 x 15 filas
+[2025-12-12 11:52:53] Iteration 18: UPDATE aleatorio x 15 clientes
+[2025-12-12 11:52:53] Iter 18: inserts=4050000 updates=1350
+[2025-12-12 12:03:39] Iteration 19: INSERT 15000 x 15 filas
+[2025-12-12 12:03:39] Iteration 19: UPDATE aleatorio x 15 clientes
+[2025-12-12 12:03:39] Iter 19: inserts=4275000 updates=1425
+[2025-12-12 12:14:15] Iteration 20: INSERT 15000 x 15 filas
+[2025-12-12 12:14:15] Iteration 20: UPDATE aleatorio x 15 clientes
+[2025-12-12 12:14:15] Iter 20: inserts=4500000 updates=1500
+[2025-12-12 12:25:11] Iteration 21: INSERT 15000 x 15 filas
+[2025-12-12 12:25:11] Iteration 21: UPDATE aleatorio x 15 clientes
+[2025-12-12 12:25:11] Iter 21: inserts=4725000 updates=1575
+[2025-12-12 12:36:03] Iteration 22: INSERT 15000 x 15 filas
+[2025-12-12 12:36:03] Iteration 22: UPDATE aleatorio x 15 clientes
+[2025-12-12 12:36:03] Iter 22: inserts=4950000 updates=1650
+[2025-12-12 12:45:15] Iteration 23: INSERT 15000 x 15 filas
+[2025-12-12 12:45:15] Iteration 23: UPDATE aleatorio x 15 clientes
+[2025-12-12 12:45:15] Iter 23: inserts=5175000 updates=1725
+[2025-12-12 12:56:05] Iteration 24: INSERT 15000 x 15 filas
+[2025-12-12 12:56:05] Iteration 24: UPDATE aleatorio x 15 clientes
+[2025-12-12 12:56:05] Iter 24: inserts=5400000 updates=1800
+[2025-12-12 13:06:57] Iteration 25: INSERT 15000 x 15 filas
+[2025-12-12 13:06:57] Iteration 25: UPDATE aleatorio x 15 clientes
+[2025-12-12 13:06:57] Iter 25: inserts=5625000 updates=1875
+[2025-12-12 13:17:36] Iteration 26: INSERT 15000 x 15 filas
+[2025-12-12 13:17:36] Iteration 26: UPDATE aleatorio x 15 clientes
+[2025-12-12 13:17:36] Iter 26: inserts=5850000 updates=1950
+[2025-12-12 13:28:29] Iteration 27: INSERT 15000 x 15 filas
+[2025-12-12 13:28:29] Iteration 27: UPDATE aleatorio x 15 clientes
+[2025-12-12 13:28:29] Iter 27: inserts=6075000 updates=2025
+[2025-12-12 13:39:28] Iteration 28: INSERT 15000 x 15 filas
+[2025-12-12 13:39:28] Iteration 28: UPDATE aleatorio x 15 clientes
+[2025-12-12 13:39:28] Iter 28: inserts=6300000 updates=2100
+[2025-12-12 13:50:23] Iteration 29: INSERT 15000 x 15 filas
+[2025-12-12 13:50:23] Iteration 29: UPDATE aleatorio x 15 clientes
+[2025-12-12 13:50:23] Iter 29: inserts=6525000 updates=2175
+[2025-12-12 14:01:15] Iteration 30: INSERT 15000 x 15 filas
+[2025-12-12 14:01:15] Iteration 30: UPDATE aleatorio x 15 clientes
+[2025-12-12 14:01:15] Iter 30: inserts=6750000 updates=2250
+[2025-12-12 14:12:16] Iteration 31: INSERT 15000 x 15 filas
+[2025-12-12 14:12:16] Iteration 31: UPDATE aleatorio x 15 clientes
+[2025-12-12 14:12:16] Iter 31: inserts=6975000 updates=2325
+[2025-12-12 14:22:33] Iteration 32: INSERT 15000 x 15 filas
+[2025-12-12 14:22:33] Iteration 32: UPDATE aleatorio x 15 clientes
+[2025-12-12 14:22:33] Iter 32: inserts=7200000 updates=2400
+[2025-12-12 14:33:11] Iteration 33: INSERT 15000 x 15 filas
+[2025-12-12 14:33:11] Iteration 33: UPDATE aleatorio x 15 clientes
+[2025-12-12 14:33:11] Iter 33: inserts=7425000 updates=2475
+[2025-12-12 14:44:04] Iteration 34: INSERT 15000 x 15 filas
+[2025-12-12 14:44:04] Iteration 34: UPDATE aleatorio x 15 clientes
+[2025-12-12 14:44:04] Iter 34: inserts=7650000 updates=2550
+[2025-12-12 14:55:09] Iteration 35: INSERT 15000 x 15 filas
+[2025-12-12 14:55:09] Iteration 35: UPDATE aleatorio x 15 clientes
+[2025-12-12 14:55:09] Iter 35: inserts=7875000 updates=2625
+==============================================
+DB STRESS TEST - Fin: vie 12 dic 2025 15:04:41 -05
+Total inserts: 7875000, total updates: 2625
+==============================================

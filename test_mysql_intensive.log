@@ -1,0 +1,956 @@
+nohup: no se tendrá en cuenta la entrada
+=============================================
+MYSQL INTENSIVE STRESS TEST - Inicio: vie 12 dic 2025 09:01:52 -05
+Duración: 6 horas (21600 segundos)
+Batch Size: 20000 | Workers: 20
+=============================================
+Iniciando stress intenso de MySQL por 6 horas...
+Salida en: logs/test_mysql_intensive.log
+Pushgateway: pushgateway:9091
+
+[#                                                 ] 0% (0/360 min)total
+2
+total
+2
+departamento	count
+Hardware	1
+Ventas	1
+departamento	count
+Hardware	1
+Ventas	1
+estado_ticket	count
+procesando	2
+total
+2
+estado_ticket	count
+procesando	2
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 15:53:04
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 15:53:04
+departamento	count
+Hardware	1
+Ventas	1
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 15:53:04
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 15:53:04
+estado_ticket	count
+procesando	2
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 15:53:04
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 15:53:04
+total
+2
+departamento	count
+Hardware	1
+Ventas	1
+estado_ticket	count
+procesando	2
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 15:53:11
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 15:53:11
+total
+2
+departamento	count
+Hardware	1
+Ventas	1
+estado_ticket	count
+procesando	2
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 15:53:11
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 15:53:11
+total
+2
+departamento	count
+Hardware	1
+Ventas	1
+estado_ticket	count
+procesando	2
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 15:53:14
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 15:53:14
+total
+2
+departamento	count
+Hardware	1
+Ventas	1
+estado_ticket	count
+procesando	2
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 15:53:17
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 15:53:17
+total
+2
+departamento	count
+Hardware	1
+Ventas	1
+estado_ticket	count
+procesando	2
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 15:53:25
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 15:53:25
+total
+2
+departamento	count
+Hardware	1
+Ventas	1
+estado_ticket	count
+procesando	2
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 15:53:32
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 15:53:32
+total
+2
+departamento	count
+Hardware	1
+Ventas	1
+estado_ticket	count
+procesando	2
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 15:54:38
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 15:54:38
+total
+2
+total
+2
+total
+2
+departamento	count
+Hardware	1
+Ventas	1
+departamento	count
+Hardware	1
+Ventas	1
+departamento	count
+Hardware	1
+Ventas	1
+estado_ticket	count
+procesando	2
+estado_ticket	count
+procesando	2
+total
+2
+estado_ticket	count
+procesando	2
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 15:54:50
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 15:54:50
+departamento	count
+Hardware	1
+Ventas	1
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 15:54:50
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 15:54:50
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 15:54:50
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 15:54:50
+estado_ticket	count
+procesando	2
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 15:54:50
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 15:54:50
+total
+2
+departamento	count
+Hardware	1
+Ventas	1
+estado_ticket	count
+procesando	2
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 15:54:52
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 15:54:52
+total
+2
+departamento	count
+Hardware	1
+Ventas	1
+estado_ticket	count
+procesando	2
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 15:54:55
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 15:54:55
+total
+2
+departamento	count
+Hardware	1
+Ventas	1
+estado_ticket	count
+procesando	2
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 15:54:58
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 15:54:58
+total
+2
+departamento	count
+Hardware	1
+Ventas	1
+total
+2
+total
+2
+estado_ticket	count
+procesando	2
+departamento	count
+Hardware	1
+Ventas	1
+departamento	count
+Hardware	1
+Ventas	1
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 15:54:59
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 15:54:59
+estado_ticket	count
+procesando	2
+estado_ticket	count
+procesando	2
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 15:54:59
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 15:54:59
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 15:54:59
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 15:54:59
+[#                                                 ] 31% (113/360 min)total
+2
+departamento	count
+Hardware	1
+Ventas	1
+estado_ticket	count
+procesando	2
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 17:36:57
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 17:36:57
+total
+2
+total
+2
+departamento	count
+Hardware	1
+Ventas	1
+departamento	count
+Hardware	1
+Ventas	1
+estado_ticket	count
+procesando	2
+estado_ticket	count
+procesando	2
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 17:37:02
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 17:37:02
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 17:37:02
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 17:37:02
+total
+2
+departamento	count
+Hardware	1
+Ventas	1
+estado_ticket	count
+procesando	2
+total
+2
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 17:37:14
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 17:37:14
+departamento	count
+Hardware	1
+Ventas	1
+estado_ticket	count
+procesando	2
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 17:37:14
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 17:37:14
+total
+2
+departamento	count
+Hardware	1
+Ventas	1
+estado_ticket	count
+procesando	2
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 17:37:21
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 17:37:21
+total
+2
+departamento	count
+Hardware	1
+Ventas	1
+estado_ticket	count
+procesando	2
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 17:37:22
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 17:37:22
+total
+2
+departamento	count
+Hardware	1
+Ventas	1
+estado_ticket	count
+procesando	2
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 17:37:26
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 17:37:26
+total
+2
+departamento	count
+Hardware	1
+Ventas	1
+estado_ticket	count
+procesando	2
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 17:37:29
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 17:37:29
+total
+2
+departamento	count
+Hardware	1
+Ventas	1
+estado_ticket	count
+procesando	2
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 17:38:36
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 17:38:36
+total
+2
+departamento	count
+Hardware	1
+Ventas	1
+estado_ticket	count
+procesando	2
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 17:38:37
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 17:38:37
+total
+2
+total
+2
+departamento	count
+Hardware	1
+Ventas	1
+departamento	count
+Hardware	1
+Ventas	1
+estado_ticket	count
+procesando	2
+estado_ticket	count
+procesando	2
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 17:38:40
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 17:38:40
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 17:38:40
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 17:38:40
+total
+2
+departamento	count
+Hardware	1
+Ventas	1
+estado_ticket	count
+procesando	2
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 17:38:42
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 17:38:42
+total
+2
+departamento	count
+Hardware	1
+Ventas	1
+estado_ticket	count
+procesando	2
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 17:38:46
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 17:38:46
+total
+2
+departamento	count
+Hardware	1
+Ventas	1
+estado_ticket	count
+procesando	2
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 17:38:48
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 17:38:48
+total
+2
+departamento	count
+Hardware	1
+Ventas	1
+estado_ticket	count
+procesando	2
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 17:38:50
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 17:38:50
+total
+2
+departamento	count
+Hardware	1
+Ventas	1
+estado_ticket	count
+procesando	2
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 17:38:51
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 17:38:51
+total
+2
+departamento	count
+Hardware	1
+Ventas	1
+estado_ticket	count
+procesando	2
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 17:38:55
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 17:38:55
+total
+2
+departamento	count
+Hardware	1
+Ventas	1
+estado_ticket	count
+procesando	2
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 17:39:01
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 17:39:01
+[#                                                 ] 60% (217/360 min)total
+2
+total
+2
+departamento	count
+Hardware	1
+Ventas	1
+departamento	count
+Hardware	1
+Ventas	1
+total
+2
+estado_ticket	count
+procesando	2
+estado_ticket	count
+procesando	2
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 19:21:04
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 19:21:04
+departamento	count
+Hardware	1
+Ventas	1
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 19:21:04
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 19:21:04
+estado_ticket	count
+procesando	2
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 19:21:04
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 19:21:04
+total
+2
+departamento	count
+Hardware	1
+Ventas	1
+estado_ticket	count
+procesando	2
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 19:21:10
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 19:21:10
+total
+2
+total
+2
+departamento	count
+Hardware	1
+Ventas	1
+departamento	count
+Hardware	1
+Ventas	1
+estado_ticket	count
+procesando	2
+estado_ticket	count
+procesando	2
+total
+2
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 19:21:14
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 19:21:14
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 19:21:14
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 19:21:14
+departamento	count
+Hardware	1
+Ventas	1
+estado_ticket	count
+procesando	2
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 19:21:14
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 19:21:14
+total
+2
+departamento	count
+Hardware	1
+Ventas	1
+estado_ticket	count
+procesando	2
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 19:21:17
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 19:21:17
+total
+2
+departamento	count
+Hardware	1
+Ventas	1
+estado_ticket	count
+procesando	2
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 19:21:19
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 19:21:19
+total
+2
+departamento	count
+Hardware	1
+Ventas	1
+estado_ticket	count
+procesando	2
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 19:22:48
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 19:22:48
+total
+2
+departamento	count
+Hardware	1
+Ventas	1
+estado_ticket	count
+procesando	2
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 19:22:50
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 19:22:50
+total
+2
+departamento	count
+Hardware	1
+Ventas	1
+total
+2
+estado_ticket	count
+procesando	2
+total
+2
+departamento	count
+Hardware	1
+Ventas	1
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 19:22:54
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 19:22:54
+estado_ticket	count
+procesando	2
+departamento	count
+Hardware	1
+Ventas	1
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 19:22:55
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 19:22:55
+estado_ticket	count
+procesando	2
+total
+2
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 19:22:55
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 19:22:55
+departamento	count
+Hardware	1
+Ventas	1
+estado_ticket	count
+procesando	2
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 19:22:55
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 19:22:55
+total
+2
+total
+2
+total
+2
+departamento	count
+Hardware	1
+Ventas	1
+departamento	count
+Hardware	1
+Ventas	1
+departamento	count
+Hardware	1
+Ventas	1
+estado_ticket	count
+procesando	2
+estado_ticket	count
+procesando	2
+estado_ticket	count
+procesando	2
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 19:22:57
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 19:22:57
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 19:22:57
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 19:22:57
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 19:22:57
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 19:22:57
+total
+2
+departamento	count
+Hardware	1
+Ventas	1
+estado_ticket	count
+procesando	2
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 19:22:59
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 19:22:59
+total
+2
+departamento	count
+Hardware	1
+Ventas	1
+estado_ticket	count
+procesando	2
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 19:23:00
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 19:23:00
+[#                                                 ] 89% (321/360 min)total
+2
+departamento	count
+Hardware	1
+Ventas	1
+estado_ticket	count
+procesando	2
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 20:47:12
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 20:47:12
+total
+2
+departamento	count
+Hardware	1
+Ventas	1
+estado_ticket	count
+procesando	2
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 20:47:12
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 20:47:12
+total
+2
+departamento	count
+Hardware	1
+Ventas	1
+total
+2
+departamento	count
+Hardware	1
+Ventas	1
+estado_ticket	count
+procesando	2
+estado_ticket	count
+procesando	2
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 20:47:15
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 20:47:15
+total
+2
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 20:47:15
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 20:47:15
+departamento	count
+Hardware	1
+Ventas	1
+estado_ticket	count
+procesando	2
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 20:47:15
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 20:47:15
+total
+2
+departamento	count
+Hardware	1
+Ventas	1
+estado_ticket	count
+procesando	2
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 20:47:17
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 20:47:17
+total
+2
+departamento	count
+Hardware	1
+Ventas	1
+estado_ticket	count
+procesando	2
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 20:47:20
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 20:47:20
+total
+2
+departamento	count
+Hardware	1
+Ventas	1
+estado_ticket	count
+procesando	2
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 20:47:22
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 20:47:22
+total
+2
+departamento	count
+Hardware	1
+Ventas	1
+estado_ticket	count
+procesando	2
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 20:47:23
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 20:47:23
+total
+2
+total
+2
+departamento	count
+Hardware	1
+Ventas	1
+estado_ticket	count
+procesando	2
+departamento	count
+Hardware	1
+Ventas	1
+estado_ticket	count
+procesando	2
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 20:48:15
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 20:48:15
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 20:48:15
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 20:48:15
+total
+2
+departamento	count
+Hardware	1
+Ventas	1
+estado_ticket	count
+procesando	2
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 20:48:18
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 20:48:18
+total
+2
+departamento	count
+Hardware	1
+Ventas	1
+estado_ticket	count
+procesando	2
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 20:48:19
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 20:48:19
+total
+2
+total
+2
+total
+2
+departamento	count
+Hardware	1
+Ventas	1
+departamento	count
+Hardware	1
+Ventas	1
+departamento	count
+Hardware	1
+Ventas	1
+estado_ticket	count
+procesando	2
+estado_ticket	count
+procesando	2
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 20:48:19
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 20:48:19
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 20:48:19
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 20:48:19
+estado_ticket	count
+procesando	2
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 20:48:19
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 20:48:19
+total
+2
+departamento	count
+Hardware	1
+Ventas	1
+estado_ticket	count
+procesando	2
+total
+2
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 20:48:21
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 20:48:21
+departamento	count
+Hardware	1
+Ventas	1
+total
+2
+estado_ticket	count
+procesando	2
+departamento	count
+Hardware	1
+Ventas	1
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 20:48:21
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 20:48:21
+estado_ticket	count
+procesando	2
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 20:48:21
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 20:48:21
+total
+2
+departamento	count
+Hardware	1
+Ventas	1
+estado_ticket	count
+procesando	2
+id	fecha	serie	estado_ticket	nombre_usuario	email_cliente	departamento	asunto	mensaje	solucion
+1	2025-12-12	TK70N1	procesando	Test User	test@example.com	Hardware	Problema Test	Este es un problema de prueba	Updated at 2025-12-12 20:48:23
+2		TK57N2	procesando	Super Administrador	administrador@gmail.com	Ventas	no da video	no muestra nada la pantalla	Updated at 2025-12-12 20:48:23
+
+
+=============================================
+STRESS TEST COMPLETADO
+=============================================
+Estadísticas finales:
+  Total Inserciones: 0
+  Total Updates: 0
+  Total Deletes: 0
+  Total Selects: 0
+  Total de Operaciones: 0
+Fin: vie 12 dic 2025 15:48:23 -05
+=============================================
+ure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1062 (23000) at line 1: Duplicate entry 'TICKET-812449' for key 'serie'
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1062 (23000) at line 1: Duplicate entry 'TICKET-528143' for key 'serie'
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1062 (23000) at line 1: Duplicate entry 'TICKET-404684' for key 'serie'
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1062 (23000) at line 1: Duplicate entry 'TICKET-720948' for key 'serie'
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1062 (23000) at line 1: Duplicate entry 'TICKET-211067' for key 'serie'
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1062 (23000) at line 1: Duplicate entry 'TICKET-2014517' for key 'serie'
+ERROR 1062 (23000) at line 1: Duplicate entry 'TICKET-1207937' for key 'serie'
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1062 (23000) at line 1: Duplicate entry 'TICKET-1801878' for key 'serie'
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1062 (23000) at line 1: Duplicate entry 'TICKET-1316465' for key 'serie'
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1062 (23000) at line 1: Duplicate entry 'TICKET-1706470' for key 'serie'
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1062 (23000) at line 1: Duplicate entry 'TICKET-1514076' for key 'serie'
+ERROR 1062 (23000) at line 1: Duplicate entry 'TICKET-1023287' for key 'serie'
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1062 (23000) at line 1: Duplicate entry 'TICKET-1618654' for key 'serie'
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1062 (23000) at line 1: Duplicate entry 'TICKET-1917751' for key 'serie'
+ERROR 1062 (23000) at line 1: Duplicate entry 'TICKET-1132410' for key 'serie'
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1062 (23000) at line 1: Duplicate entry 'TICKET-1423199' for key 'serie'
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+=============================================
+STRESS TEST COMPLETADO
+=============================================
+Estadísticas finales:
+  Total Inserciones: 0
+  Total Updates: 0
+  Total Deletes: 0
+  Total Selects: 0
+  Total de Operaciones: 0
+Fin: vie 12 dic 2025 15:48:23 -05
+=============================================

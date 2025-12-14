@@ -1,0 +1,67 @@
+{
+  "dashboard": {
+    "title": "Tests - Web & DB Metrics",
+    "tags": ["tests","automation"],
+    "timezone": "browser",
+    "panels": [
+      {
+        "title": "Web Requests (rate 1m)",
+        "type": "graph",
+        "targets": [
+          {
+            "expr": "sum(rate(test_web_requests_total[1m])) by (instance)",
+            "refId": "A"
+          }
+        ],
+        "gridPos": {"h": 8, "w": 24, "x": 0, "y": 0}
+      },
+      {
+        "title": "Tickets Created (rate 1m)",
+        "type": "graph",
+        "targets": [
+          {
+            "expr": "sum(rate(test_web_tickets_created_total[1m])) by (instance)",
+            "refId": "A"
+          }
+        ],
+        "gridPos": {"h": 8, "w": 12, "x": 0, "y": 8}
+      },
+      {
+        "title": "Logins (total)",
+        "type": "stat",
+        "targets": [
+          {
+            "expr": "sum(test_web_logins_total)",
+            "refId": "A"
+          }
+        ],
+        "gridPos": {"h": 4, "w": 12, "x": 12, "y": 8}
+      },
+      {
+        "title": "DB Inserts (rate 1m)",
+        "type": "graph",
+        "targets": [
+          {
+            "expr": "sum(rate(test_db_inserts_total[1m])) by (instance)",
+            "refId": "A"
+          }
+        ],
+        "gridPos": {"h": 8, "w": 12, "x": 0, "y": 12}
+      },
+      {
+        "title": "DB Updates (total)",
+        "type": "stat",
+        "targets": [
+          {
+            "expr": "sum(test_db_updates_total)",
+            "refId": "A"
+          }
+        ],
+        "gridPos": {"h": 4, "w": 12, "x": 12, "y": 12}
+      }
+    ],
+    "schemaVersion": 35,
+    "version": 1,
+    "refresh": "15s"
+  }
+}
