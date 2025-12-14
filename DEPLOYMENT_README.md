@@ -102,11 +102,3 @@ for f in .test_*.pid; do [ -f "$f" ] && kill "$(cat $f)" && rm -f "$f"; done
 Notas de seguridad y rendimiento
 - El script ejecuta `docker-compose` y comandos shell: modifica `tools/deploy_config.py` y `POST_CMDS` con cuidado.
 - Los tests que vienen con el repositorio generan una carga muy alta en la BD. Ejecuta en entornos controlados y monitoriza recursos (CPU, memoria, I/O).
-
-Sugerencias y siguientes pasos
-- Si necesitas integración CI/CD, puedes invocar `tools/deploy.py` desde tu pipeline (GitHub Actions, GitLab CI, Jenkins), pasando `--no-start-tests` y ejecutando los tests de carga en runners controlados.
-- Para entornos de producción, añade validaciones adicionales (checksums, migraciones en modo transaccional, backups previos).
-
-¿Quieres que:
-- Ejecute `make deploy` ahora usando la configuración actual?
-- Personalice `tools/deploy_config.py` para ajustarlo a tus preferencias (por ejemplo, desactivar `PULL` o cambiar `TEST_ENV`)?
